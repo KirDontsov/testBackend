@@ -3,7 +3,7 @@ RESTful API based on Expressjs.
 
 # Install
 ```
-git clone https://github.com/KirDontsov/testBackend
+git clone https://github.com/KirDontsov/testBackend.git
 cd testBackend
 npm install or yarn
 ```
