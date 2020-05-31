@@ -3,12 +3,10 @@
 	"version": "1.0.0",
 	"main": "index.js",
 	"license": "MIT",
-	"engines": {
-		"node": "12.x"
-	},
 	"scripts": {
 		"start": "node index.js",
-		"watch": "nodemon index.js"
+		"watch": "nodemon index.js",
+		"now-build": "node ./index.js"
 	},
 	"dependencies": {
 		"cors": "^2.8.5",
