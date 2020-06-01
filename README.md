@@ -1,5 +1,5 @@
 # testBackend
-RESTful API based on Expressjs.
+RESTful API based on node.js Express.js + mongodb.
 
 # Install
 ```
