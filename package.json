@@ -3,9 +3,6 @@
 	"version": "1.0.0",
 	"main": "index.js",
 	"license": "MIT",
-	"engines": {
-		"node": "10.x"
-	},
 	"scripts": {
 		"start": "node index.js",
 		"watch": "nodemon index.js",
@@ -14,6 +11,7 @@
 	},
 	"dependencies": {
 		"cors": "^2.8.5",
+		"dotenv": "^8.2.0",
 		"express": "^4.17.1",
 		"mongodb": "^3.5.8",
 		"mongoose": "^5.9.16",
