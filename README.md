@@ -13,7 +13,6 @@ npm install or yarn
 npm run start or yarn start
 or 
 npm run watch or yarn watch
-
 ```
 
 Runs the app in the development mode.
