@@ -17,8 +17,6 @@ npm run watch or yarn watch
 ```
 
 Runs the app in the development mode.
-Open http://localhost:5000 to view it in the browser.
-
 to see the list of products go to the next link: http://localhost:5000/products
 
 
